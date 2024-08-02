@@ -29,6 +29,10 @@ function FAQ() {
       answer:
         "A hackathon is a 24-hour competition where groups of students work together to create software prototypes that solve real-world problems. It is a chance for industry, academics, and the community to work together. Unlike hacking into something, the competition participants are asked to put together or hack together, working prototypes quickly while being mentored by industry and academics.",
     },
+    {question: "Will we have one in 2024"
+,
+      answer: "will have one in 2024!!! fALL OF THIS YEAR!!!",
+    },
     {
       question: "What is I-Hack?",
       answer:
