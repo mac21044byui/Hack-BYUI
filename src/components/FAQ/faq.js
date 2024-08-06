@@ -31,7 +31,7 @@ function FAQ() {
     },
     {question: "Will we have one in 2024"
 ,
-      answer: "will have one in 2024!!! fALL OF THIS YEAR!!!",
+      answer: "will have one in 2024!!! fALL OF THIS YEAR!!! See you there very sooon!",
     },
     {
       question: "What is I-Hack?",
